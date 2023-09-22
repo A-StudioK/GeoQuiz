@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App-GeoQuiz-M02</string>
+    <string name="tvQuestion">TextView</string>
+    <string name="btYes">Yes</string>
+    <string name="btNo">No</string>
+    <string name="question">¿Es Messi el mejor jugador en la historia del futbol?</string>
+    <string name="pregunta">¿Es messi el mejor jufador en la historia del futbol?</string>
+    <string name="next_question">Next Question</string>
+    <string name="geoquiz">GeoQuiz</string>
+    <string name="questions">¿Es Messi el mejor jugador del Mundo?</string>
+    <string name="btRestart">Restart</string>
+</resources>
